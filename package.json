@@ -1,0 +1,24 @@
+{
+  "name": "3d-space-invaders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fevenissayas/3D-Space-Invaders.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fevenissayas/3D-Space-Invaders/issues"
+  },
+  "homepage": "https://github.com/fevenissayas/3D-Space-Invaders#readme",
+  "dependencies": {
+    "three": "^0.177.0"
+  }
+}
